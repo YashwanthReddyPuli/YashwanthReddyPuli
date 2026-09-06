@@ -3,14 +3,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6d28d9,100:be185d&height=200&section=header&text=Yashwanth%20Reddy%20Puli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AIML)%20%40%20Christ%20University&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+SentinelCache+%E2%80%94+AI+API+Gateway;AIML+%2B+Systems+%7C+Full-Stack+Engineer;Turning+coffee+into+cache+hits+%E2%98%95;Always+shipping+%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+AI+Solutions;AIML+%2B+Systems+%7C+Full-Stack+Engineer;Turning+coffee+into+cache+hits+%E2%98%95;Always+shipping+%2C+always+learning" alt="Typing SVG" />
 </a>
 
 <br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=YashwanthReddyPuli&label=Profile%20Views&color=58a6ff&style=flat" alt="profile views"/>
-<a href="https://linkedin.com/in/puli-balaji-yashwanth-reddy-455586315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yashureddy4044@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<!-- Top Row: Repos & Email (No spaces between tags to fix the blue line bug) -->
+<a href="https://github.com/YashwanthReddyPuli?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYashwanthReddyPuli&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=8b5cf6" alt="repos"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:yashureddy4044@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-58a6ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="email"/></a>
+
+
+<!-- Bottom Row: LinkedIn -->
+<a href="https://linkedin.com/in/puli-balaji-yashwanth-reddy-455586315"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="linkedin"/></a>
 
 </div>
 
