@@ -98,11 +98,6 @@ fun_fact: "6'3\" and still finding motorcycles that don't cramp my knees"
 
 <img src="https://raw.githubusercontent.com/YashwanthReddyPuli/YashwanthReddyPuli/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
-</div>
-
-> ⚙️ The snake needs a one-time GitHub Action setup — instructions below.
-
-<br/>
 
 <div align="center">
 
