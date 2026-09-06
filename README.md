@@ -57,7 +57,7 @@ I'm a B.Tech Computer Science student specializing in AI/ML at Christ University
 <tr>
 <td valign="top" align="center">
 <a href="https://github.com/YashwanthReddyPuli/Sentinel-Cache">
-  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=Sentinel-Cache&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=Sentinel-Cache&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=1" />
 </a>
 </td>
 <td valign="top" align="center">
