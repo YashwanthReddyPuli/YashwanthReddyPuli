@@ -86,7 +86,7 @@ fun_fact: "6'3\" and still finding motorcycles that don't cramp my knees"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashwanthReddyPuli&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="95%"/>
+<img src="https://github-readme-activity-graph-six-swart.vercel.app/graph?username=YashwanthReddyPuli&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="95%"/>
 
 </div>
 
@@ -98,7 +98,9 @@ fun_fact: "6'3\" and still finding motorcycles that don't cramp my knees"
 
 <img src="https://raw.githubusercontent.com/YashwanthReddyPuli/YashwanthReddyPuli/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
+</div>
 
+<br/>
 
 <div align="center">
 
