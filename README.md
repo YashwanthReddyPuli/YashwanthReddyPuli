@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Yashwanth%20Reddy%20Puli&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AIML)%20%40%20Christ%20University&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6d28d9,100:be185d&height=200&section=header&text=Yashwanth%20Reddy%20Puli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AIML)%20%40%20Christ%20University&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+SentinelCache+%E2%80%94+AI+API+Gateway;AIML+%2B+Systems+%7C+Full-Stack+Engineer;Turning+coffee+into+cache+hits+%E2%98%95;Always+shipping+%2C+always+learning" alt="Typing SVG" />
@@ -104,6 +104,6 @@ fun_fact: "6'3\" and still finding motorcycles that don't cramp my knees"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:be185d,50:6d28d9,100:1e3a8a&height=120&section=footer"/>
 
 </div>
