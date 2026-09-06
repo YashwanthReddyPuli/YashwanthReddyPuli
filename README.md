@@ -69,7 +69,7 @@ I'm a B.Tech Computer Science student specializing in AI/ML at Christ University
 <tr>
 <td valign="top" align="center" colspan="2">
 <a href="https://github.com/gagan-aditya01/EduBase">
-  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=gagan-aditya01&repo=EduBase&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=gagan-aditya01&repo=EduBase&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=1" />
 </a>
 </td>
 </tr>
