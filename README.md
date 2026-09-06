@@ -55,14 +55,14 @@ fun_fact: "6'3\" and still finding motorcycles that don't cramp my knees"
 <div align="center">
 
 <a href="https://github.com/YashwanthReddyPuli/Sentinel-Cache">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=Sentinel-Cache&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=Sentinel-Cache&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/YashwanthReddyPuli/RagnirBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=RagnirBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=RagnirBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 <br/>
 <a href="https://github.com/gagan-aditya01/EduBase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gagan-aditya01&repo=EduBase&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=gagan-aditya01&repo=EduBase&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -73,10 +73,10 @@ fun_fact: "6'3\" and still finding motorcycles that don't cramp my knees"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YashwanthReddyPuli&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-rho-ten-83.vercel.app/api?username=YashwanthReddyPuli&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashwanthReddyPuli&theme=github-dark-blue&hide_border=true&background=0d1117" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashwanthReddyPuli&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%"/>
+<img src="https://github-readme-stats-rho-ten-83.vercel.app/api/top-langs/?username=YashwanthReddyPuli&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%"/>
 
 </div>
 
@@ -97,6 +97,7 @@ fun_fact: "6'3\" and still finding motorcycles that don't cramp my knees"
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/YashwanthReddyPuli/YashwanthReddyPuli/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
 
 
 <div align="center">
