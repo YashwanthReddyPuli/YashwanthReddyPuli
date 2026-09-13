@@ -60,24 +60,24 @@ I'm a B.Tech Computer Science student specializing in AI/ML at Christ University
 <tr>
 <td valign="top" align="center">
 <a href="https://github.com/YashwanthReddyPuli/Sentinel-Cache">
-  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=Sentinel-Cache&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=1" />
+  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=Sentinel-Cache&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=7" />
 </a>
 </td>
 <td valign="top" align="center">
 <a href="https://github.com/YashwanthReddyPuli/Tapeye">
-  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=Tapeye&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=1" />
+  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=Tapeye&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=7" />
 </a>
 </td>
 </tr>
 <tr>
 <td valign="top" align="center">
 <a href="https://github.com/gagan-aditya01/EduBase">
-  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=gagan-aditya01&repo=EduBase&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=1" />
+  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=gagan-aditya01&repo=EduBase&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=7" />
 </a>
 </td>
 <td valign="top" align="center">
 <a href="https://github.com/YashwanthReddyPuli/RagnirBot">
-  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=RagnirBot&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-rho-ten-83.vercel.app/api/pin/?username=YashwanthReddyPuli&repo=RagnirBot&theme=github_dark&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=7" />
 </a>
 </td>
 </tr>
@@ -91,16 +91,16 @@ I'm a B.Tech Computer Science student specializing in AI/ML at Christ University
 
 <div align="center">
 
-<img src="https://github-readme-stats-rho-ten-83.vercel.app/api?username=YashwanthReddyPuli&show_icons=true&theme=github_dark_dimmed&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&v=6" height="195" />
+<img src="https://github-readme-stats-rho-ten-83.vercel.app/api?username=YashwanthReddyPuli&show_icons=true&theme=github_dark_dimmed&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&v=7" height="195" />
 &nbsp;
 <br/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashwanthReddyPuli&theme=github-dark-blue&hide_border=false&border=8b5cf6&background=0d1117&v=6" height="195" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashwanthReddyPuli&theme=github-dark-blue&hide_border=false&border=8b5cf6&background=0d1117&v=7" height="195" />
 
 <br/>
 <br/>
 
-<img src="https://github-readme-stats-rho-ten-83.vercel.app/api/top-langs/?username=YashwanthReddyPuli&layout=compact&theme=github_dark_dimmed&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=6" />
+<img src="https://github-readme-stats-rho-ten-83.vercel.app/api/top-langs/?username=YashwanthReddyPuli&layout=compact&theme=github_dark_dimmed&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=7" />
 
 </div>
 
@@ -110,7 +110,7 @@ I'm a B.Tech Computer Science student specializing in AI/ML at Christ University
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph-six-swart.vercel.app/graph?username=YashwanthReddyPuli&theme=github-compact&hide_border=false&border_color=8b5cf6&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&v=1" width="95%"/>
+<img src="https://github-readme-activity-graph-six-swart.vercel.app/graph?username=YashwanthReddyPuli&theme=github-compact&hide_border=false&border_color=8b5cf6&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&v=7" width="95%"/>
 
 </div>
 
@@ -120,7 +120,7 @@ I'm a B.Tech Computer Science student specializing in AI/ML at Christ University
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YashwanthReddyPuli/YashwanthReddyPuli/output/github-contribution-grid-snake-dark.svg?v=1" width="95%"/>
+<img src="https://raw.githubusercontent.com/YashwanthReddyPuli/YashwanthReddyPuli/output/github-contribution-grid-snake-dark.svg?v=7" width="95%"/>
 
 </div>
 
