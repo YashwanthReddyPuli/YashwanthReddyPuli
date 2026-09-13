@@ -91,16 +91,16 @@ I'm a B.Tech Computer Science student specializing in AI/ML at Christ University
 
 <div align="center">
 
-<img src="https://github-readme-stats-rho-ten-83.vercel.app/api?username=YashwanthReddyPuli&show_icons=true&theme=github_dark_dimmed&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&v=5" height="195" />
+<img src="https://github-readme-stats-rho-ten-83.vercel.app/api?username=YashwanthReddyPuli&show_icons=true&theme=github_dark_dimmed&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&v=6" height="195" />
 &nbsp;
 <br/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashwanthReddyPuli&theme=github-dark-blue&hide_border=false&border=8b5cf6&background=0d1117&v=5" height="195" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashwanthReddyPuli&theme=github-dark-blue&hide_border=false&border=8b5cf6&background=0d1117&v=6" height="195" />
 
 <br/>
 <br/>
 
-<img src="https://github-readme-stats-rho-ten-83.vercel.app/api/top-langs/?username=YashwanthReddyPuli&layout=compact&theme=github_dark_dimmed&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=5" />
+<img src="https://github-readme-stats-rho-ten-83.vercel.app/api/top-langs/?username=YashwanthReddyPuli&layout=compact&theme=github_dark_dimmed&hide_border=false&border_color=8b5cf6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&v=6" />
 
 </div>
 
