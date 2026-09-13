@@ -110,7 +110,7 @@ I'm a B.Tech Computer Science student specializing in AI/ML at Christ University
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph-six-swart.vercel.app/graph?username=YashwanthReddyPuli&theme=github-compact&hide_border=false&border_color=8b5cf6&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="95%"/>
+<img src="https://github-readme-activity-graph-six-swart.vercel.app/graph?username=YashwanthReddyPuli&theme=github-compact&hide_border=false&border_color=8b5cf6&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="95%"&v=1/>
 
 </div>
 
