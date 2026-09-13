@@ -120,7 +120,7 @@ I'm a B.Tech Computer Science student specializing in AI/ML at Christ University
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YashwanthReddyPuli/YashwanthReddyPuli/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/YashwanthReddyPuli/YashwanthReddyPuli/output/github-contribution-grid-snake-dark.svg?v=1" width="95%"/>
 
 </div>
 
